@@ -19,7 +19,7 @@ En los siguientes notebooks se muestra el análisis realizado con nuestro datase
 ### [Exploración de variables categóricas](https://github.com/Sof265/analisis_de_datos_python/blob/main/03_Exploracion%20de%20variables%20categoricas.ipynb)
 ### [Correlaciones y regresión lineal simple](https://github.com/Sof265/analisis_de_datos_python/blob/main/04_Correlaciones%20y%20regresion%20lineal%20simple.ipynb)
 ### [Distribuciones y modelos](https://github.com/Sof265/analisis_de_datos_python/blob/main/05_Distribuciones%20y%20modelos.ipynb)
-### [Visualización de datos avanzada](https://github.com/Sof265/analisis_de_datos_python/blob/main/06_Visualizacion%20de%20datos%20avanzada%5Bchanges%20in%20weight%5D.ipynb)
+### [Visualización de datos avanzada](https://github.com/Sof265/analisis_de_datos_python/blob/main/06_Visualizacion_de_datos_avanzada.ipynb)
 
 En la última parte del proyecto, trabajamos con dos datasets distintos, ya que nuestro conjunto inicial de datos no era el mejor para los siguientes análisis. 
 En el notebook siguiente se trabaja con un dataset de reseñas de amazon de celulares, en el cual efectuamos procesamiento de lenguaje natural y análisis de sentimientos.
